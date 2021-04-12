@@ -4,7 +4,7 @@ import msvcrt
 
 config = {
 	"sound_path": "sounds/little tenor chime.wav",
-	"time_list": [25*60, 5*60, 25*60, 5*60, 25*60, 5*60, 25*60, 15*60] #yeah this probably doesn't belong in a config but i am beyond caring
+	"time_list": [25*60, 5*60, 25*60, 5*60, 25*60, 5*60, 25*60, 15*60], #yeah this probably doesn't belong in a config but i am beyond caring
 	"timer_resolution": 1
 } 
 
